@@ -10,9 +10,9 @@
   }
 
   const images = [
-    'http://zabbyallen.com/user/pages/01.blog/freebie-friday-90s-inspired-backgrounds/triangles-background.jpg',
-    'http://zabbyallen.com/user/pages/01.blog/freebie-friday-90s-inspired-backgrounds/shapes-background.jpg',
-    'http://i.imgur.com/opkriub.jpg'
+    'images/triangles-background.jpg',
+    'images/shapes-background.jpg',
+    'images/opkriub.jpg'
   ]
 
   const rugImages = document.getElementById('rugBackground')
